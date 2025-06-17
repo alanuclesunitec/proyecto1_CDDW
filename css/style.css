@@ -1,0 +1,10 @@
+:root{
+    --fondo_azul: blue;
+    --texto_blanco:white;
+
+}
+
+h1{
+    background-color: var(--fondo_azul);
+    color: var(--texto_blanco);
+}
